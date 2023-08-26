@@ -30,10 +30,19 @@ Here is a sample footnote [^1]
 
 ==guess what this is
 
--[x] Task 1
+- [x] Task 1
 
--[ ] Task 1
+- [ ] Task 1
 
--[ ] Task 2
+- [ ] Task 2
 
--[ ] Task 3
+- [ ] Task 3
+
+| Title | Description |
+|-------|-------------|
+| Title | Description |
+|-------|-------------|
+| Title | Description |
+|-------|-------------|
+
+Put:joy:
