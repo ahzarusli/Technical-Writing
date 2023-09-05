@@ -63,3 +63,28 @@ Read the instruction with reference to Figure 1.
 
 #### MAINTENANCE
 
+1.	Measure 20 ml water using measuring cup.
+2.	Pour water into the base.
+3.	Add 2 to 3 drops of mild detergent into the water.
+4.	Leave the water-detergent mixture for 20 minutes.
+5.	When 20 minutes is up, clean the base with the water-detergent mixture using soft brush.
+6.	Pour out the water-detergent mixture.
+7.	Wipe dry the external and internal base and cover using soft cleaning cloth.
+    - Do not let damp cleaning cloth in contact with the DC socket when cleaning the bottom of the base.
+
+#### BASIC TROUBLESHOOTING
+
+1.	If there is no power detected, verify the connection between:
+    - adapter to DC socket, and
+    - adapter to power source.
+2.	For safety purpose, the machine will automatically turn off when water level is very low. To turn on the machine again, pour in water not exceeding max water level line ③.
+3.	If there is no mist produced during operation of the machine,
+4.	Ensure water level not exceeding max water level line or not too low.
+5.	Clean the ultrasonic vibration plate  using cotton swab to remove any trapped dirt.
+6.	If there is water coming out of the base during operation,
+7.	Switch off the machine.
+8.	Lift the cover.
+9.	Pour out the water.
+10.	Shake the base lightly to allow remaining water flowing out of the water outlet ⑧.
+11.	Leave the base to air-dry for 24 hours before using the machine again.
+
