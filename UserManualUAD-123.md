@@ -2,7 +2,17 @@
 ### User Manual
 Thank you for buying our product. Read carefully before begin operating the machine.
 
-Table of Contents
+### Table of Contents
+
+#### COMPONENTS
+#### PRODUCT SPECIFICATION
+#### RECOMMENDATION
+#### SAFETY INFO
+#### WARRANTY
+#### CUSTOMER SERVICE
+#### HOW TO USE
+#### MAINTENANCE
+#### BASIC TROUBLESHOOTING
 
 #### COMPONENTS
 
@@ -22,12 +32,12 @@ Table of Contents
 #### RECOMMENDATION
 
 To prolong serviceability of the machine, it is recommended to:
-* use filtered water, and
-* perform maintenance once every five (5) days.
+- [x] use filtered water, and
+- [x] perform maintenance once every five (5) days.
 
 #### SAFETY INFO
 
-Please pay special attention to this content. Failure to comply may result in failure and void warranty.
+Please pay special attention to this content. ```Failure to comply may result in failure and void warranty.```
 
 1.	Do not disassemble the machine when in use.
 2.	Do not pour water exceeding max water level line. 
@@ -79,12 +89,12 @@ Read the instruction with reference to Figure 1.
     - adapter to power source.
 2.	For safety purpose, the machine will automatically turn off when water level is very low. To turn on the machine again, pour in water not exceeding max water level line ③.
 3.	If there is no mist produced during operation of the machine,
-4.	Ensure water level not exceeding max water level line or not too low.
-5.	Clean the ultrasonic vibration plate  using cotton swab to remove any trapped dirt.
-6.	If there is water coming out of the base during operation,
-7.	Switch off the machine.
-8.	Lift the cover.
-9.	Pour out the water.
-10.	Shake the base lightly to allow remaining water flowing out of the water outlet ⑧.
-11.	Leave the base to air-dry for 24 hours before using the machine again.
+    - Ensure water level not exceeding max water level line or not too low.
+    - Clean the ultrasonic vibration plate  using cotton swab to remove any trapped dirt.
+4.	If there is water coming out of the base during operation,
+    - Switch off the machine.
+    - Lift the cover.
+    - Pour out the water.
+    - Shake the base lightly to allow remaining water flowing out of the water outlet ⑧.
+    - Leave the base to air-dry for 24 hours before using the machine again.
 
