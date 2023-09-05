@@ -2,18 +2,6 @@
 ### User Manual
 Thank you for buying our product. Read carefully before begin operating the machine.
 
-### Table of Contents
-
-#### COMPONENTS
-#### PRODUCT SPECIFICATION
-#### RECOMMENDATION
-#### SAFETY INFO
-#### WARRANTY
-#### CUSTOMER SERVICE
-#### HOW TO USE
-#### MAINTENANCE
-#### BASIC TROUBLESHOOTING
-
 #### COMPONENTS
 
 ![GitHub UAD-123](https://github.com/ahzarusli/Technical-Writing/assets/143250870/6e473e4a-09c3-43a2-a819-23051060ceb7)
